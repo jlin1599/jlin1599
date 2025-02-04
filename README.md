@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi there, I'm Jackie Lin! 👋
 
-<!--
-**jlin1599/jlin1599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Software Engineer | Computer Science Student**  
+💡 Passionate about web development, algorithms, and impactful technology  
+🎯 Currently improving my skills through Clubs, Hackathons, Projects, Codepath, and more!
+📚 Learning **React, Node.js, and SQL**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+
+- **Languages:** C++, Python, HTML, CSS, JavaScript
+- **Tools:** Git, Github, Linux, VS code, Netlify
+
+---
+
+### 🚀 Projects
+
+🔹 [**Chess Game**](https://jlin159chess.netlify.app/) - A fully interactive chess game with drag-and-drop functionality and win detection  
+🔹 **[Portfolio Website](https://jlin159.netlify.app/)** - Showcasing my skills, projects, and experience using HTML, CSS, JavaScript  
+🔹 **More coming soon...** 🚀
+
+---
+
+### 📌 Connect with Me
+
+- 📧 Email:jl226859643@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/jackielin)
+- 🌍 [Portfolio](https://jlin159.netlify.app/)
+
+✨ _Always excited to learn and collaborate on new projects!_
