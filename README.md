@@ -3,6 +3,7 @@
 🚀 **Aspiring Software Engineer | Computer Science Student**  
 💡 Passionate about web development, algorithms, and impactful technology  
 🎯 Currently improving my skills through Clubs, Hackathons, Projects, Codepath, and more!
+
 📚 Learning **React, Node.js, and SQL**  
 
 ---
