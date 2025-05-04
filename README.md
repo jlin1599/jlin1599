@@ -12,6 +12,8 @@
 
 - **Languages:** C++, Python, HTML, CSS, JavaScript
 - **Tools:** Git, Github, Linux, VS code, Netlify
+- **Frameworks:** React
+
 
 ---
 
