@@ -19,8 +19,8 @@
 
 ### 🚀 Projects
 
-🔹 [**Chess Game**](https://jlin159chess.netlify.app/) - A fully interactive chess game with drag-and-drop functionality and win detection  
-🔹 **[Portfolio Website](https://jlin159.netlify.app/)** - Showcasing my skills, projects, and experience using HTML, CSS, JavaScript  
+🔹 [**HabitAware - HunterHacks 2025 Health and Wellness Winner**](https://devpost.com/software/habitaware?ref_content=my-projects-tab&ref_feature=my_projects) - Habit Coach, preventing common bad habits when stressed and anxious 
+🔹 **[MediSync - HackNYU 2025]()** - AI Health Assistant with Google Maps search for nearest medical centers near you  
 🔹 **More coming soon...** 🚀
 
 ---
