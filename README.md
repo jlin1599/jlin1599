@@ -11,7 +11,7 @@
 ### 🛠 Tech Stack & Tools
 
 - **Languages:** C++, Python, HTML, CSS, JavaScript
-- **Tools:** Git, Github, Linux, VS code, Netlify
+- **Tools:** Git, Github, Linux, VS code, Vercel, Vite, Supabase
 - **Frameworks:** React
 
 
@@ -19,7 +19,7 @@
 
 ### 🚀 Projects
 
-🔹 [**HabitAware - HunterHacks 2025 Health and Wellness Winner**](https://devpost.com/software/habitaware?ref_content=my-projects-tab&ref_feature=my_projects) - Habit Coach, preventing common bad habits when stressed and anxious 
+🔹 [**HabitAware - HunterHacks 2025 Health and Wellness Winner**](https://devpost.com/software/habitaware?ref_content=my-projects-tab&ref_feature=my_projects) - Habit Coach, preventing common bad habits when stressed and anxious
 🔹 **[MediSync - HackNYU 2025]()** - AI Health Assistant with Google Maps search for nearest medical centers near you  
 🔹 **More coming soon...** 🚀
 
