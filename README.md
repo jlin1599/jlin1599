@@ -29,6 +29,6 @@
 
 - 📧 Email:jl226859643@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/jackie-lin-0119162b9/)
-- 🌍 [Portfolio](https://jlin159.netlify.app/)
+- 🌍 [Portfolio](https://jlin159.vercel.app/)
 
 ✨ _Always excited to learn and collaborate on new projects!_
