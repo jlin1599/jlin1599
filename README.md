@@ -1,34 +1,60 @@
-### Hi there, I'm Jackie Lin! 👋
+### 👋 Hi there, I'm Jackie Lin!
 
-🚀 **Aspiring Software Engineer | Computer Science Student**  
-💡 Passionate about web development, algorithms, and impactful technology  
-🎯 Currently improving my skills through Clubs, Hackathons, Projects, Codepath, and more!
-
-📚 Learning **React, Node.js, and SQL**  
+🚀 **Aspiring Software Engineer | CS @ CUNY Hunter College (’27)**  
+🎓 Dean’s List | GPA: 3.5 | Software Engineering Fellow @ CUNY Tech Prep  
+💡 Passionate about building impactful products through full-stack development and AI tools  
+🔍 Exploring projects in health tech, CRM automation, and small business solutions
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 💼 Experience
 
-- **Languages:** C++, Python, HTML, CSS, JavaScript
-- **Tools:** Git, Github, Linux, VS code, Vercel, Vite, Supabase
-- **Frameworks:** React
+- 🧠 **Software Engineer Intern @ The Difference App** (June 2025 - Present)  
+  Streamlining backend systems using PHP and SQL to support scalable nutrition features
 
+- 🏘️ **Software Developer Intern @ Evergreen Investments** (Mar – May 2025)  
+  Automated property-deal matching with Deluge + Zoho CRM; deployed a widget that boosted workflow speed by 40%
+
+---
+
+### 💻 Tech Stack
+
+- **Languages:** Python, C++, JavaScript, HTML/CSS, SQL  
+- **Frameworks & Tools:** React, Node.js, Express.js, Tailwind CSS, Vite, Supabase, Git, Linux, REST APIs, Vercel
 
 ---
 
 ### 🚀 Projects
 
-🔹 [**HabitAware - HunterHacks 2025 Health and Wellness Winner**](https://devpost.com/software/habitaware?ref_content=my-projects-tab&ref_feature=my_projects) - Habit Coach, preventing common bad habits when stressed and anxious
-🔹 **[MediSync - HackNYU 2025]()** - AI Health Assistant with Google Maps search for nearest medical centers near you  
-🔹 **More coming soon...** 🚀
+🔹 [**HabitAware – HunterHacks '25 Health & Wellness Winner**](https://devpost.com/software/habitaware?ref_content=my-projects-tab&ref_feature=my_projects)  
+→ AI coach using OpenCV, MediaPipe, and OpenAI to help users manage bad habits under stress (90% accuracy)  
+→ 1st place winner & presented to Meta, Google, and Amazon at CUNY Pitchfest  
+
+🔹 **MediSync – HackNYU '25**  
+→ AI health assistant with personalized symptom analysis and nearby medical center search using Google Maps + Firebase  
+→ Used by 75% of testers; 99% precision with OpenAI API  
+
+🔹 **Barber Business Portfolio**  
+→ Local barber site built with React + Tailwind CSS, increasing weekly bookings by 20% and monthly revenue by $1,000+
 
 ---
 
-### 📌 Connect with Me
+### 🌱 Currently Learning
 
-- 📧 Email:jl226859643@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/jackie-lin-0119162b9/)
-- 🌍 [Portfolio](https://jlin159.vercel.app/)
+- Advanced React + Express.js  
+- SQL & full-stack best practices via CUNY Tech Prep  
+- System design and technical interviewing prep
 
-✨ _Always excited to learn and collaborate on new projects!_
+---
+
+### 📬 Connect with Me
+
+- 📧 Email: jlin226859643@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jackie-lin-0119162b9/)  
+- 🌐 [Portfolio](https://jlin159.vercel.app/)  
+- 🛠 [GitHub](https://github.com/jlin159)
+
+---
+
+✨ _Always excited to learn, build, and make a difference through tech._
+
