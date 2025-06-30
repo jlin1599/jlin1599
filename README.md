@@ -30,11 +30,11 @@
 → AI coach using OpenCV, MediaPipe, and OpenAI to help users manage bad habits under stress (90% accuracy)  
 → 1st place winner & presented to Meta, Google, and Amazon at CUNY Pitchfest  
 
-🔹 **MediSync – HackNYU '25**  
+🔹 [**MediSync – HackNYU '25**](https://devpost.com/software/medisync-jov4e5) 
 → AI health assistant with personalized symptom analysis and nearby medical center search using Google Maps + Firebase  
 → Used by 75% of testers; 99% precision with OpenAI API  
 
-🔹 **Barber Business Portfolio**  
+🔹 [**Barber Business Portfolio**](https://spadebarberstudio.vercel.app/)
 → Local barber site built with React + Tailwind CSS, increasing weekly bookings by 20% and monthly revenue by $1,000+
 
 ---
@@ -50,7 +50,7 @@
 ### 📬 Connect with Me
 
 - 📧 Email: jlin226859643@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jackie-lin-0119162b9/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jackielin159/)  
 - 🌐 [Portfolio](https://jlin159.vercel.app/)  
 - 🛠 [GitHub](https://github.com/jlin159)
 
