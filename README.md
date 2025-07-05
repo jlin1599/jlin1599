@@ -50,7 +50,6 @@
 ### 📬 Connect with Me
 
 - 📧 Email: jlin226859643@gmail.com  
-- 💼 [LinkedIn]()  
 - 🌐 [Portfolio](https://jlin159.vercel.app/)  
 - 🛠 [GitHub](https://github.com/jlin159)
 
