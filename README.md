@@ -45,7 +45,7 @@
 - React-based booking site for local business; increased client bookings and added $1,000+ monthly revenue  
 - Created fully responsive UI with modern design, improving business visibility
 
-### 🔹 DraftSmart (Private)
+### 🔹 [DraftSmart](https://nba-draftsmart.vercel.app/)
 - NBA fantasy draft tool using React + Express.js + Tank01 API  
 - Enables stat comparisons and draft planning using real-time data
 
