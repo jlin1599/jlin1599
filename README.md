@@ -64,7 +64,7 @@
 - 📧 Email: jlin226859643@gmail.com  
 - 🛠 [GitHub](https://github.com/jlin1599)  
 - 🌐 [Portfolio](https://jlinportfolio.vercel.app/)
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/jackielin159/)
 ---
 
 ✨ *Always excited to learn, build, and make a difference through tech.*
