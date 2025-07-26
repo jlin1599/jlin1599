@@ -10,9 +10,9 @@
 ## 💼 Experience
 
 ### 🧠 Software Engineer Intern @ The Difference App (June 2025 – Present)
-- Refactored backend using Node.js and Express.js to streamline health data access and admin tools  
-- Redesigned subscription workflows and implemented Android notification services  
-- Delivered features across planning, dev, and deployment stages
+- Rebuilt admin login system using Node.js, Express.js, and MySQL to resolve access issues and support 1,500+ user records
+- Secured login flow by fixing React token handling and backend auth logic, blocking 100% of unauthorized access 
+- Boosted backend scalability with MySQL connection pooling, handling 10× more concurrent requests at peak load
 
 ### 🏘️ Software Developer Intern @ Evergreen Investments (Mar – May 2025)
 - Automated property-to-lead matching with Deluge and Zoho CRM  
@@ -27,7 +27,7 @@
 ## 💻 Tech Stack
 
 **Languages:** Python, C++, JavaScript, HTML/CSS, SQL  
-**Frameworks & Tools:** React, Node.js, Express.js, Tailwind CSS, Vite, Supabase, Git, Linux, REST APIs, Vercel
+**Frameworks & Tools:** React, Node.js, Express.js, Tailwind CSS, Vite, Supabase, Git, Linux, Postman, Vercel
 
 ---
 
@@ -46,7 +46,7 @@
 - Created fully responsive UI with modern design, improving business visibility
 
 ### 🔹 [DraftSmart](https://nba-draftsmart.vercel.app/)
-- NBA fantasy draft tool using React + Express.js + Tank01 API  
+- NBA fantasy draft tool using React + Node.js + Express.js + Tank01 API + OpenAI API
 - Enables stat comparisons and draft planning using real-time data
 
 ---
