@@ -27,8 +27,11 @@
 ## 💻 Tech Stack
 
 **Programming Languages**: JavaScript, TypeScript, Python, C++, HTML/CSS, SQL
+
 **Libraries & Frameworks**: React, Next.js, Node.js, Express.js, Tailwind CSS, Vitest
+
 **Developer Tools**: Git/GitHub, Bash/CLI, Vercel, Supabase, AWS, Localstack, Postman, Firebase
+
 **Databases**: MySQL, PostgreSQL, DynamoDB
 
 
